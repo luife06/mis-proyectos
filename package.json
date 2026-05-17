@@ -1,0 +1,11 @@
+// Run this script once to generate icons if needed.
+// Icons are already included as SVG data URLs in the public folder.
+// The actual PNG icons need to be generated or replaced manually.
+
+// icon-192.png and icon-512.png should be placed in /public/
+// They can be any square PNG image representing your app.
+// A simple orange "P" on dark background works great.
+
+console.log("Place icon-192.png and icon-512.png in the /public folder.");
+console.log("You can generate them at: https://favicon.io/favicon-generator/");
+console.log("Use: Background #f97316, Letter P, Font color #000000");
